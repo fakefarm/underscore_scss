@@ -3,11 +3,11 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    dave woodall -- author -- @wwwoodall
 
 # THANKS
 
-    <name>
+    SMACSS, BEM, Angular, Middleman
 
 # TECHNOLOGY COLOPHON
 
