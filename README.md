@@ -1,3 +1,13 @@
+# underscore_css
+
+## todo
+
+[read this about css-modules](http://glenmaddern.com/articles/css-modules)
+
+[and this](https://github.com/css-modules/css-modules)
+
+[and this too](https://github.com/css-modules/cssm-rails)
+
 ## Getting started
 
 `fork it`
@@ -164,3 +174,7 @@ data-ga="generic instance_name"
 >
 <%= data.copy.generic instance_name %>
 </element - div  header  nav  section  article  footer > <!-- app  page  collection  unit  gallery  title  button  paragraph  image  list  wrap generic instance_name -->
+
+
+## A note about middleman
+
